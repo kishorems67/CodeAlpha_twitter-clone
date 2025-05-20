@@ -1,1 +1,2 @@
-# CodeAlpha_twitter-clone
+# Twitter-clone
+This is a twitter clone
